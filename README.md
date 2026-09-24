@@ -120,20 +120,24 @@ Repeat for `q2` through `q5`, substituting the corresponding filename. All five 
 
 
 **Q2 — Bank Account System**
+<img width="1917" height="1017" alt="q2-Screenshot" src="https://github.com/user-attachments/assets/f3241168-f86b-436e-b873-3e9a2572c74b" />
 
-![Q2 output](F:\software\Projects\C++ Practical-exam\Output-Screenshots/q2-screenshot.png)
+
 
 **Q3 — Shape Area Calculator**
 
-![Q3 output](F:\software\Projects\C++ Practical-exam\Output-Screenshots/q3-screenshot.png)
+<img width="1916" height="982" alt="q3-Screenshot" src="https://github.com/user-attachments/assets/79d19bf2-e659-4c0a-a019-3d8f90ff8751" />
+
 
 **Q4 — Shape Polymorphism Demo**
 
-![Q4 output](F:\software\Projects\C++ Practical-exam\Output-Screenshots/q4-screenshot.png)
+<img width="1917" height="1018" alt="q4-screenshot" src="https://github.com/user-attachments/assets/6ac7abbc-e9d4-4093-974d-296a8c27860e" />
+
 
 **Q5 — Vehicle Simulator**
 
-![Q5 output](F:\software\Projects\C++ Practical-exam\Output-Screenshots/q5-screenshot.png)
+<img width="1917" height="1020" alt="q5-screenshot" src="https://github.com/user-attachments/assets/54d02e97-a7e8-4aec-9814-82394930a4d6" />
+
 
 ---
 
