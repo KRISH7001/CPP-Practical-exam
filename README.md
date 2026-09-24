@@ -115,8 +115,9 @@ Repeat for `q2` through `q5`, substituting the corresponding filename. All five 
 ## 🖥️ Program Output
 
 **Q1 — Laptop Catalog**
+<img width="1917" height="1020" alt="q1-screenshot" src="https://github.com/user-attachments/assets/b348abf7-26db-4652-afad-8405d2bb71e2" />
 
-![Q1 output](F:\software\Projects\C++ Practical-exam\Output-Screenshots/q1-screenshot.png)
+
 
 **Q2 — Bank Account System**
 
